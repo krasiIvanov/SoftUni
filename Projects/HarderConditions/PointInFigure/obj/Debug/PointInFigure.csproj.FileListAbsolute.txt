@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInFigure\bin\Debug\PointInFigure.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInFigure\bin\Debug\PointInFigure.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInFigure\bin\Debug\PointInFigure.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInFigure\obj\Debug\PointInFigure.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInFigure\obj\Debug\PointInFigure.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInFigure\obj\Debug\PointInFigure.pdb

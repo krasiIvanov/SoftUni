@@ -1,0 +1,5 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.pdb

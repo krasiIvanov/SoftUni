@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\PoisonousPlants\bin\Debug\PoisonousPlants.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\PoisonousPlants\bin\Debug\PoisonousPlants.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\PoisonousPlants\bin\Debug\PoisonousPlants.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\PoisonousPlants\obj\Debug\PoisonousPlants.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\PoisonousPlants\obj\Debug\PoisonousPlants.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\PoisonousPlants\obj\Debug\PoisonousPlants.pdb

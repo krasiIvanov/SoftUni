@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

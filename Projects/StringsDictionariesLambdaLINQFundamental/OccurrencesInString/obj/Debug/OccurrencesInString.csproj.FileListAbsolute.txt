@@ -1,0 +1,1 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\OccurrencesInString\bin\Debug\OccurrencesInString.exe.config

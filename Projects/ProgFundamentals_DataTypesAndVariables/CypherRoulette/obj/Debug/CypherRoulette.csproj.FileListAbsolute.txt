@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\CypherRoulette\bin\Debug\CypherRoulette.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\CypherRoulette\bin\Debug\CypherRoulette.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\CypherRoulette\bin\Debug\CypherRoulette.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\CypherRoulette\obj\Debug\CypherRoulette.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\CypherRoulette\obj\Debug\CypherRoulette.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\CypherRoulette\obj\Debug\CypherRoulette.pdb

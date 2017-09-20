@@ -1,0 +1,8 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Merging_two_files_into_third_one\bin\Debug\Merging_two_files_into_third_one.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Merging_two_files_into_third_one\bin\Debug\Merging_two_files_into_third_one.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Merging_two_files_into_third_one\bin\Debug\Merging_two_files_into_third_one.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Merging_two_files_into_third_one\obj\Debug\Merging_two_files_into_third_one.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Merging_two_files_into_third_one\obj\Debug\Merging_two_files_into_third_one.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Merging_two_files_into_third_one\obj\Debug\Merging_two_files_into_third_one.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Merging_two_files_into_third_one\bin\Debug\BashSoft.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Merging_two_files_into_third_one\bin\Debug\BashSoft.pdb

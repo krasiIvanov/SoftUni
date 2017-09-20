@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\URLParser\bin\Debug\URLParser.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\URLParser\bin\Debug\URLParser.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\URLParser\bin\Debug\URLParser.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\URLParser\obj\Debug\URLParser.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\URLParser\obj\Debug\URLParser.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\URLParser\obj\Debug\URLParser.pdb

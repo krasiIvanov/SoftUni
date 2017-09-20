@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SplitWord\bin\Debug\SplitWord.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SplitWord\bin\Debug\SplitWord.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SplitWord\bin\Debug\SplitWord.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SplitWord\obj\Debug\SplitWord.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SplitWord\obj\Debug\SplitWord.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SplitWord\obj\Debug\SplitWord.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.pdb

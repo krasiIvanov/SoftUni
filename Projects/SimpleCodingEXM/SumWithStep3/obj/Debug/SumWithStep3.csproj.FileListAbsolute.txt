@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumWithStep3\bin\Debug\SumWithStep3.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumWithStep3\bin\Debug\SumWithStep3.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumWithStep3\bin\Debug\SumWithStep3.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumWithStep3\obj\Debug\SumWithStep3.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumWithStep3\obj\Debug\SumWithStep3.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumWithStep3\obj\Debug\SumWithStep3.pdb

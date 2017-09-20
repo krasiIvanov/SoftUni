@@ -1,0 +1,5 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Diamond\bin\Debug\Diamond.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Diamond\bin\Debug\Diamond.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Diamond\obj\Debug\Diamond.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Diamond\obj\Debug\Diamond.pdb

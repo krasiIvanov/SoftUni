@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPInheritance\Mankind\bin\Debug\Mankind.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPInheritance\Mankind\bin\Debug\Mankind.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPInheritance\Mankind\bin\Debug\Mankind.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPInheritance\Mankind\obj\Debug\Mankind.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPInheritance\Mankind\obj\Debug\Mankind.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPInheritance\Mankind\obj\Debug\Mankind.pdb

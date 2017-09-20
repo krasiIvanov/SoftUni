@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\Methods\bin\Debug\Methods.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\Methods\bin\Debug\Methods.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\Methods\bin\Debug\Methods.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\Methods\obj\Debug\Methods.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\Methods\obj\Debug\Methods.pdb

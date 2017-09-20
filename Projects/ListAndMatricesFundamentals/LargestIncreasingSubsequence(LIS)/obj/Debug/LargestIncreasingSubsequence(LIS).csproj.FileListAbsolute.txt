@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\LargestIncreasingSubsequence(LIS)\bin\Debug\LargestIncreasingSubsequence(LIS).exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\LargestIncreasingSubsequence(LIS)\bin\Debug\LargestIncreasingSubsequence(LIS).exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\LargestIncreasingSubsequence(LIS)\bin\Debug\LargestIncreasingSubsequence(LIS).pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\LargestIncreasingSubsequence(LIS)\obj\Debug\LargestIncreasingSubsequence(LIS).csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\LargestIncreasingSubsequence(LIS)\obj\Debug\LargestIncreasingSubsequence(LIS).exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\LargestIncreasingSubsequence(LIS)\obj\Debug\LargestIncreasingSubsequence(LIS).pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\MelrahShake\bin\Debug\MelrahShake.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\MelrahShake\bin\Debug\MelrahShake.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\MelrahShake\bin\Debug\MelrahShake.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\MelrahShake\obj\Debug\MelrahShake.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\MelrahShake\obj\Debug\MelrahShake.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\MelrahShake\obj\Debug\MelrahShake.pdb

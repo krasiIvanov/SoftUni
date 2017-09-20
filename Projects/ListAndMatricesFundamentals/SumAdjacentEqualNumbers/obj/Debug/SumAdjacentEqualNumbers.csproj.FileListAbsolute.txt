@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.pdb

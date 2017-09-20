@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPBasicExams\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPBasicExams\Avatar\bin\Debug\Avatar.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPBasicExams\Avatar\bin\Debug\Avatar.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPBasicExams\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPBasicExams\Avatar\obj\Debug\Avatar.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPBasicExams\Avatar\obj\Debug\Avatar.pdb

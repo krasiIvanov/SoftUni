@@ -1,0 +1,9 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\Convertor\bin\Debug\Convertor.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\Convertor\bin\Debug\Convertor.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\Convertor\bin\Debug\Convertor.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\Convertor\obj\Debug\Convertor.Form1.resources
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\Convertor\obj\Debug\Convertor.csproj.GenerateResource.Cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\Convertor\obj\Debug\Convertor.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\Convertor\obj\Debug\Convertor.pdb

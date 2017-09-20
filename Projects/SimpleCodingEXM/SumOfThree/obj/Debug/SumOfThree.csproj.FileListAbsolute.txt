@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumOfThree\bin\Debug\SumOfThree.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumOfThree\bin\Debug\SumOfThree.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumOfThree\bin\Debug\SumOfThree.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumOfThree\obj\Debug\SumOfThree.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumOfThree\obj\Debug\SumOfThree.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\SumOfThree\obj\Debug\SumOfThree.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\DateAfter1000Days\bin\Debug\DateAfter1000Days.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\DateAfter1000Days\bin\Debug\DateAfter1000Days.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\DateAfter1000Days\bin\Debug\DateAfter1000Days.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\DateAfter1000Days\obj\Debug\DateAfter1000Days.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\DateAfter1000Days\obj\Debug\DateAfter1000Days.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\DateAfter1000Days\obj\Debug\DateAfter1000Days.pdb

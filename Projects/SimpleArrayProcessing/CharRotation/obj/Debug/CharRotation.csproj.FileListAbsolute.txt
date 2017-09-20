@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CharRotation\bin\Debug\CharRotation.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CharRotation\bin\Debug\CharRotation.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CharRotation\bin\Debug\CharRotation.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CharRotation\obj\Debug\CharRotation.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CharRotation\obj\Debug\CharRotation.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CharRotation\obj\Debug\CharRotation.pdb

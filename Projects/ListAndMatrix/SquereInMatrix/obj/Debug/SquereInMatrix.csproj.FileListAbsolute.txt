@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SquereInMatrix\bin\Debug\SquereInMatrix.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SquereInMatrix\bin\Debug\SquereInMatrix.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SquereInMatrix\bin\Debug\SquereInMatrix.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SquereInMatrix\obj\Debug\SquereInMatrix.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SquereInMatrix\obj\Debug\SquereInMatrix.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SquereInMatrix\obj\Debug\SquereInMatrix.csprojResolveAssemblyReference.cache

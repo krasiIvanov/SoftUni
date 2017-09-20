@@ -1,0 +1,5 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

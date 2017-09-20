@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\BonusPoints\bin\Debug\BonusPoints.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\BonusPoints\bin\Debug\BonusPoints.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\BonusPoints\bin\Debug\BonusPoints.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\BonusPoints\obj\Debug\BonusPoints.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\BonusPoints\obj\Debug\BonusPoints.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\BonusPoints\obj\Debug\BonusPoints.pdb

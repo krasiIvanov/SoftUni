@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.pdb

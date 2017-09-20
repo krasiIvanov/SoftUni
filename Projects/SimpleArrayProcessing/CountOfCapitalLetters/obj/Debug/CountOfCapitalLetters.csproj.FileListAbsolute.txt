@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfCapitalLetters\bin\Debug\CountOfCapitalLetters.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfCapitalLetters\bin\Debug\CountOfCapitalLetters.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfCapitalLetters\bin\Debug\CountOfCapitalLetters.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfCapitalLetters\obj\Debug\CountOfCapitalLetters.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfCapitalLetters\obj\Debug\CountOfCapitalLetters.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\CountOfCapitalLetters\obj\Debug\CountOfCapitalLetters.pdb

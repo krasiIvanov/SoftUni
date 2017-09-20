@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Get_folder_size\bin\Debug\Get_folder_size.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Get_folder_size\bin\Debug\Get_folder_size.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Get_folder_size\bin\Debug\Get_folder_size.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Get_folder_size\obj\Debug\Get_folder_size.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Get_folder_size\obj\Debug\Get_folder_size.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Get_folder_size\obj\Debug\Get_folder_size.pdb

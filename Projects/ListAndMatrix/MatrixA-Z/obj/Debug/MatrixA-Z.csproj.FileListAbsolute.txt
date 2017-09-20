@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\MatrixA-Z\bin\Debug\MatrixA-Z.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\MatrixA-Z\bin\Debug\MatrixA-Z.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\MatrixA-Z\bin\Debug\MatrixA-Z.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\MatrixA-Z\obj\Debug\MatrixA-Z.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\MatrixA-Z\obj\Debug\MatrixA-Z.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\MatrixA-Z\obj\Debug\MatrixA-Z.pdb

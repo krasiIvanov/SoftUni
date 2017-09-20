@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ClassBox\bin\Debug\ClassBox.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ClassBox\bin\Debug\ClassBox.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ClassBox\bin\Debug\ClassBox.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ClassBox\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ClassBox\obj\Debug\ClassBox.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ClassBox\obj\Debug\ClassBox.pdb

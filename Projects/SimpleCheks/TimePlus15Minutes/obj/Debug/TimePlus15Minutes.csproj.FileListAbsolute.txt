@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.pdb

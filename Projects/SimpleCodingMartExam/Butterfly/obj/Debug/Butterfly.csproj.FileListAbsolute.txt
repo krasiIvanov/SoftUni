@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Butterfly\bin\Debug\Butterfly.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Butterfly\bin\Debug\Butterfly.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Butterfly\bin\Debug\Butterfly.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Butterfly\obj\Debug\Butterfly.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Butterfly\obj\Debug\Butterfly.pdb

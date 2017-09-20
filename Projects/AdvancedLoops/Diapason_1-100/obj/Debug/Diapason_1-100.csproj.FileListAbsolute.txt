@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\Diapason_1-100\bin\Debug\Diapason_1-100.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\Diapason_1-100\bin\Debug\Diapason_1-100.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\Diapason_1-100\bin\Debug\Diapason_1-100.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\Diapason_1-100\obj\Debug\Diapason_1-100.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\Diapason_1-100\obj\Debug\Diapason_1-100.pdb

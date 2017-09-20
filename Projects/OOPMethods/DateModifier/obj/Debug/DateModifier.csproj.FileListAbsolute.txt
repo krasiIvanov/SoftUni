@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Solution1\DateModifier\bin\Debug\DateModifier.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Solution1\DateModifier\bin\Debug\DateModifier.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Solution1\DateModifier\bin\Debug\DateModifier.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Solution1\DateModifier\obj\Debug\DateModifier.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Solution1\DateModifier\obj\Debug\DateModifier.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Solution1\DateModifier\obj\Debug\DateModifier.pdb

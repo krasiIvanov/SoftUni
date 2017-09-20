@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\Answers\bin\Debug\Answers.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\Answers\bin\Debug\Answers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\Answers\bin\Debug\Answers.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\Answers\obj\Debug\Answers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\Answers\obj\Debug\Answers.pdb

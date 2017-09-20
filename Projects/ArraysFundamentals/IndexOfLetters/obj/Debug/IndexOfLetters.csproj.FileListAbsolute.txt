@@ -1,0 +1,5 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb

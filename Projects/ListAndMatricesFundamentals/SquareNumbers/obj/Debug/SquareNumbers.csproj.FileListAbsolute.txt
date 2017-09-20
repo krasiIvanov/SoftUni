@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SquareNumbers\bin\Debug\SquareNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SquareNumbers\bin\Debug\SquareNumbers.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SquareNumbers\obj\Debug\SquareNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SquareNumbers\obj\Debug\SquareNumbers.pdb

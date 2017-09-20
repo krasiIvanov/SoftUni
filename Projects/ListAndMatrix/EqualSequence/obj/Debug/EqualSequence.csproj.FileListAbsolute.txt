@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\EqualSequence\bin\Debug\EqualSequence.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\EqualSequence\bin\Debug\EqualSequence.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\EqualSequence\bin\Debug\EqualSequence.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\EqualSequence\obj\Debug\EqualSequence.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\EqualSequence\obj\Debug\EqualSequence.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\EqualSequence\obj\Debug\EqualSequence.pdb

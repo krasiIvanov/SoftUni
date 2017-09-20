@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Transport-Price\bin\Debug\Transport-Price.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Transport-Price\bin\Debug\Transport-Price.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Transport-Price\bin\Debug\Transport-Price.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Transport-Price\obj\Debug\Transport-Price.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Transport-Price\obj\Debug\Transport-Price.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Transport-Price\obj\Debug\Transport-Price.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MatrixGenerator\bin\Debug\MatrixGenerator.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MatrixGenerator\bin\Debug\MatrixGenerator.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MatrixGenerator\bin\Debug\MatrixGenerator.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MatrixGenerator\obj\Debug\MatrixGenerator.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MatrixGenerator\obj\Debug\MatrixGenerator.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MatrixGenerator\obj\Debug\MatrixGenerator.csprojResolveAssemblyReference.cache

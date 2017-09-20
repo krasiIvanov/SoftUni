@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Person\bin\Debug\Person.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Person\bin\Debug\Person.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Person\bin\Debug\Person.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Person\obj\Debug\Person.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Person\obj\Debug\Person.pdb

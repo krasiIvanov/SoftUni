@@ -1,0 +1,1 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe.config

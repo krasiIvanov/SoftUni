@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Comisions\bin\Debug\Comisions.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Comisions\bin\Debug\Comisions.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Comisions\bin\Debug\Comisions.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Comisions\obj\Debug\Comisions.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Comisions\obj\Debug\Comisions.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Comisions\obj\Debug\Comisions.pdb

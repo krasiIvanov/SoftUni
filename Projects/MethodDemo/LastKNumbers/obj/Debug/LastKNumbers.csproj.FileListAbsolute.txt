@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\LastKNumbers\bin\Debug\LastKNumbers.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\LastKNumbers\bin\Debug\LastKNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\LastKNumbers\bin\Debug\LastKNumbers.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\LastKNumbers\obj\Debug\LastKNumbers.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\LastKNumbers\obj\Debug\LastKNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\LastKNumbers\obj\Debug\LastKNumbers.pdb

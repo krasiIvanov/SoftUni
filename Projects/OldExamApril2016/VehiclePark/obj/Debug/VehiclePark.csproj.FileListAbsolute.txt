@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\VehiclePark\bin\Debug\VehiclePark.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\VehiclePark\bin\Debug\VehiclePark.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\VehiclePark\bin\Debug\VehiclePark.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\VehiclePark\obj\Debug\VehiclePark.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\VehiclePark\obj\Debug\VehiclePark.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\VehiclePark\obj\Debug\VehiclePark.pdb

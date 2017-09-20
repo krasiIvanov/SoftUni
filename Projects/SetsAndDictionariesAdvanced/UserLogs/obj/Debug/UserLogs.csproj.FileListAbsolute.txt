@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UserLogs\bin\Debug\UserLogs.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UserLogs\bin\Debug\UserLogs.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UserLogs\bin\Debug\UserLogs.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UserLogs\obj\Debug\UserLogs.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UserLogs\obj\Debug\UserLogs.pdb

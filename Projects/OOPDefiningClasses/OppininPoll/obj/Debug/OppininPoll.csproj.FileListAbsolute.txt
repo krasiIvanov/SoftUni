@@ -1,0 +1,8 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\OppininPoll\bin\Debug\OppininPoll.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\OppininPoll\bin\Debug\OppininPoll.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\OppininPoll\bin\Debug\OppininPoll.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\OppininPoll\bin\Debug\DefineClassPerson.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\OppininPoll\bin\Debug\DefineClassPerson.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\OppininPoll\obj\Debug\OppininPoll.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\OppininPoll\obj\Debug\OppininPoll.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\OppininPoll\obj\Debug\OppininPoll.pdb

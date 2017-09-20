@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\Demo\bin\Debug\Demo.exe.config
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\Demo\bin\Debug\Demo.exe
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\Demo\bin\Debug\Demo.pdb
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\Demo\obj\Debug\Demo.exe
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\Demo\obj\Debug\Demo.pdb

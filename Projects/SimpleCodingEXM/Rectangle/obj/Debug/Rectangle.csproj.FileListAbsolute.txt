@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Rectangle\obj\Debug\Rectangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\4Numbers\bin\Debug\4Numbers.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\4Numbers\bin\Debug\4Numbers.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\4Numbers\bin\Debug\4Numbers.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\4Numbers\obj\Debug\4Numbers.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\4Numbers\obj\Debug\4Numbers.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\4Numbers\obj\Debug\4Numbers.csprojResolveAssemblyReference.cache

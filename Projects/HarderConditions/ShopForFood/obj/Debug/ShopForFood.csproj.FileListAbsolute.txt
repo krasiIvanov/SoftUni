@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\ShopForFood\bin\Debug\ShopForFood.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\ShopForFood\bin\Debug\ShopForFood.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\ShopForFood\bin\Debug\ShopForFood.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\ShopForFood\obj\Debug\ShopForFood.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\ShopForFood\obj\Debug\ShopForFood.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\ShopForFood\obj\Debug\ShopForFood.pdb

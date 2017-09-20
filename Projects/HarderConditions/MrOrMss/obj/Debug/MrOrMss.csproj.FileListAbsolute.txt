@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\MrOrMss\bin\Debug\MrOrMss.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\MrOrMss\bin\Debug\MrOrMss.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\MrOrMss\bin\Debug\MrOrMss.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\MrOrMss\obj\Debug\MrOrMss.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\MrOrMss\obj\Debug\MrOrMss.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\MrOrMss\obj\Debug\MrOrMss.pdb

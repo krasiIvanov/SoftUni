@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\RectangleIntersection\bin\Debug\RectangleIntersection.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\RectangleIntersection\bin\Debug\RectangleIntersection.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\RectangleIntersection\bin\Debug\RectangleIntersection.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\RectangleIntersection\obj\Debug\RectangleIntersection.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\RectangleIntersection\obj\Debug\RectangleIntersection.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\RectangleIntersection\obj\Debug\RectangleIntersection.pdb

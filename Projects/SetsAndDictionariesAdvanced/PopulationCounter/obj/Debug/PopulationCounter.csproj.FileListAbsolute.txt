@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PopulationCounter\bin\Debug\PopulationCounter.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PopulationCounter\bin\Debug\PopulationCounter.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PopulationCounter\bin\Debug\PopulationCounter.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PopulationCounter\obj\Debug\PopulationCounter.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PopulationCounter\obj\Debug\PopulationCounter.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PopulationCounter\obj\Debug\PopulationCounter.pdb

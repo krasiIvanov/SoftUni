@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.csprojResolveAssemblyReference.cache

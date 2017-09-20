@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Histogram\bin\Debug\Histogram.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Histogram\bin\Debug\Histogram.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Histogram\bin\Debug\Histogram.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Histogram\obj\Debug\Histogram.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Histogram\obj\Debug\Histogram.pdb

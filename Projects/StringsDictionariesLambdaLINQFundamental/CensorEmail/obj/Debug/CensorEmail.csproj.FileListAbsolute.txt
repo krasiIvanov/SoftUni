@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CensorEmail\bin\Debug\CensorEmail.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CensorEmail\bin\Debug\CensorEmail.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CensorEmail\bin\Debug\CensorEmail.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CensorEmail\obj\Debug\CensorEmail.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CensorEmail\obj\Debug\CensorEmail.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CensorEmail\obj\Debug\CensorEmail.csprojResolveAssemblyReference.cache

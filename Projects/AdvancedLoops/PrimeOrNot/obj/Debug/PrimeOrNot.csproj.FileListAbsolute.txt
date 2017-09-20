@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\PrimeOrNot\bin\Debug\PrimeOrNot.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\PrimeOrNot\bin\Debug\PrimeOrNot.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\PrimeOrNot\bin\Debug\PrimeOrNot.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\PrimeOrNot\obj\Debug\PrimeOrNot.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\PrimeOrNot\obj\Debug\PrimeOrNot.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\PrimeOrNot\obj\Debug\PrimeOrNot.pdb

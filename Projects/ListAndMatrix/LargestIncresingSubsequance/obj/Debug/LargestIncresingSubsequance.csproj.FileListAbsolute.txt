@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\LargestIncresingSubsequance\bin\Debug\LargestIncresingSubsequance.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\LargestIncresingSubsequance\bin\Debug\LargestIncresingSubsequance.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\LargestIncresingSubsequance\bin\Debug\LargestIncresingSubsequance.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\LargestIncresingSubsequance\obj\Debug\LargestIncresingSubsequance.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\LargestIncresingSubsequance\obj\Debug\LargestIncresingSubsequance.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\LargestIncresingSubsequance\obj\Debug\LargestIncresingSubsequance.pdb

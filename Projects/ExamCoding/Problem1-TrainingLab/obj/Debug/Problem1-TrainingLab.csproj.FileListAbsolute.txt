@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Problem1-TrainingLab\bin\Debug\Problem1-TrainingLab.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Problem1-TrainingLab\bin\Debug\Problem1-TrainingLab.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Problem1-TrainingLab\bin\Debug\Problem1-TrainingLab.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Problem1-TrainingLab\obj\Debug\Problem1-TrainingLab.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Problem1-TrainingLab\obj\Debug\Problem1-TrainingLab.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Problem1-TrainingLab\obj\Debug\Problem1-TrainingLab.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\PowerPlants\bin\Debug\PowerPlants.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\PowerPlants\bin\Debug\PowerPlants.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\PowerPlants\bin\Debug\PowerPlants.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\PowerPlants\obj\Debug\PowerPlants.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\PowerPlants\obj\Debug\PowerPlants.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\PowerPlants\obj\Debug\PowerPlants.pdb

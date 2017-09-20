@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CarSalesman\bin\Debug\CarSalesman.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CarSalesman\bin\Debug\CarSalesman.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CarSalesman\bin\Debug\CarSalesman.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CarSalesman\obj\Debug\CarSalesman.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CarSalesman\obj\Debug\CarSalesman.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CarSalesman\obj\Debug\CarSalesman.pdb

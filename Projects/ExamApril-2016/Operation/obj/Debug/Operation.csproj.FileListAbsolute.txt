@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\Operation\bin\Debug\Operation.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\Operation\bin\Debug\Operation.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\Operation\bin\Debug\Operation.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\Operation\obj\Debug\Operation.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\Operation\obj\Debug\Operation.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\Operation\obj\Debug\Operation.pdb

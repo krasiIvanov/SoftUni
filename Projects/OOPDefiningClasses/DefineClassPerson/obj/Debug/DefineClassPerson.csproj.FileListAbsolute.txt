@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\DefineClassPerson\bin\Debug\DefineClassPerson.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\DefineClassPerson\bin\Debug\DefineClassPerson.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\DefineClassPerson\bin\Debug\DefineClassPerson.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\DefineClassPerson\obj\Debug\DefineClassPerson.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\DefineClassPerson\obj\Debug\DefineClassPerson.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\DefineClassPerson\obj\Debug\DefineClassPerson.pdb

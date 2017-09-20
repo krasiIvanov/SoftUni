@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\ConvertFromBase-10toBase-N\bin\Debug\ConvertFromBase-10toBase-N.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\ConvertFromBase-10toBase-N\bin\Debug\ConvertFromBase-10toBase-N.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\ConvertFromBase-10toBase-N\bin\Debug\ConvertFromBase-10toBase-N.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\ConvertFromBase-10toBase-N\obj\Debug\ConvertFromBase-10toBase-N.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\ConvertFromBase-10toBase-N\obj\Debug\ConvertFromBase-10toBase-N.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\ConvertFromBase-10toBase-N\obj\Debug\ConvertFromBase-10toBase-N.pdb

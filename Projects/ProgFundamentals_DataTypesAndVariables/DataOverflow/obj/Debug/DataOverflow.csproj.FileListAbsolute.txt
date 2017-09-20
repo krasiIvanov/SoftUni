@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\DataOverflow\bin\Debug\DataOverflow.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\DataOverflow\bin\Debug\DataOverflow.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\DataOverflow\bin\Debug\DataOverflow.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\DataOverflow\obj\Debug\DataOverflow.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\DataOverflow\obj\Debug\DataOverflow.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\DataOverflow\obj\Debug\DataOverflow.pdb

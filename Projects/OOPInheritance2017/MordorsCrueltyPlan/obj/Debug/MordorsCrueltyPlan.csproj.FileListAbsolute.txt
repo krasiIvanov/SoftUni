@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\MordorsCrueltyPlan\bin\Debug\MordorsCrueltyPlan.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\MordorsCrueltyPlan\bin\Debug\MordorsCrueltyPlan.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\MordorsCrueltyPlan\bin\Debug\MordorsCrueltyPlan.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\MordorsCrueltyPlan\obj\Debug\MordorsCrueltyPlan.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\MordorsCrueltyPlan\obj\Debug\MordorsCrueltyPlan.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\MordorsCrueltyPlan\obj\Debug\MordorsCrueltyPlan.pdb

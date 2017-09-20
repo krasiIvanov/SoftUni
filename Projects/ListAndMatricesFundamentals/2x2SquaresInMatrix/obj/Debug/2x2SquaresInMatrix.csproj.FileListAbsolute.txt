@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.pdb

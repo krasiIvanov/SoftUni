@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.pdb

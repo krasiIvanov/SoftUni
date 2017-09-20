@@ -1,0 +1,5 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb

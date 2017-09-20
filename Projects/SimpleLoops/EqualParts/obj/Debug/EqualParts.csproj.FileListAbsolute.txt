@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleLoops\EqualParts\bin\Debug\EqualParts.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleLoops\EqualParts\bin\Debug\EqualParts.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleLoops\EqualParts\bin\Debug\EqualParts.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleLoops\EqualParts\obj\Debug\EqualParts.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleLoops\EqualParts\obj\Debug\EqualParts.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleLoops\EqualParts\obj\Debug\EqualParts.csprojResolveAssemblyReference.cache

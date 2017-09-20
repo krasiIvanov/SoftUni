@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MaxPlatform3x3\bin\Debug\MaxPlatform3x3.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MaxPlatform3x3\bin\Debug\MaxPlatform3x3.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MaxPlatform3x3\bin\Debug\MaxPlatform3x3.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MaxPlatform3x3\obj\Debug\MaxPlatform3x3.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MaxPlatform3x3\obj\Debug\MaxPlatform3x3.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\MaxPlatform3x3\obj\Debug\MaxPlatform3x3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\ReverseMatrix\bin\Debug\ReverseMatrix.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\ReverseMatrix\bin\Debug\ReverseMatrix.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\ReverseMatrix\bin\Debug\ReverseMatrix.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\ReverseMatrix\obj\Debug\ReverseMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\ReverseMatrix\obj\Debug\ReverseMatrix.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatrix\ReverseMatrix\obj\Debug\ReverseMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NOD\bin\Debug\NOD.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NOD\bin\Debug\NOD.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NOD\bin\Debug\NOD.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NOD\obj\Debug\NOD.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NOD\obj\Debug\NOD.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NOD\obj\Debug\NOD.pdb

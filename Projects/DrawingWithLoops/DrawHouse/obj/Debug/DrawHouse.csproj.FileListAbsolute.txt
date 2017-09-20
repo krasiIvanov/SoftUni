@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\DrawHouse\bin\Debug\DrawHouse.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\DrawHouse\bin\Debug\DrawHouse.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\DrawHouse\bin\Debug\DrawHouse.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\DrawHouse\obj\Debug\DrawHouse.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\DrawHouse\obj\Debug\DrawHouse.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\DrawHouse\obj\Debug\DrawHouse.csprojResolveAssemblyReference.cache

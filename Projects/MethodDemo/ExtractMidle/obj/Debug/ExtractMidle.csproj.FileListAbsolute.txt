@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\ExtractMidle\bin\Debug\ExtractMidle.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\ExtractMidle\bin\Debug\ExtractMidle.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\ExtractMidle\bin\Debug\ExtractMidle.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\ExtractMidle\obj\Debug\ExtractMidle.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\ExtractMidle\obj\Debug\ExtractMidle.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\ExtractMidle\obj\Debug\ExtractMidle.pdb

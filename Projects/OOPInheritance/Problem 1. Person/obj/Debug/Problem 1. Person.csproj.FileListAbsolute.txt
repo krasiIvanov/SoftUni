@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPInheritance\Problem 1. Person\bin\Debug\Problem_1.Person.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPInheritance\Problem 1. Person\bin\Debug\Problem_1.Person.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPInheritance\Problem 1. Person\bin\Debug\Problem_1.Person.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPInheritance\Problem 1. Person\obj\Debug\Problem 1. Person.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPInheritance\Problem 1. Person\obj\Debug\Problem_1.Person.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPInheritance\Problem 1. Person\obj\Debug\Problem_1.Person.pdb

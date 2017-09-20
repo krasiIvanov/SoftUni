@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInLine\bin\Debug\PointInLine.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInLine\bin\Debug\PointInLine.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInLine\bin\Debug\PointInLine.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInLine\obj\Debug\PointInLine.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInLine\obj\Debug\PointInLine.pdb

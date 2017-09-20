@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\TrackDownloader\bin\Debug\TrackDownloader.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\TrackDownloader\bin\Debug\TrackDownloader.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\TrackDownloader\bin\Debug\TrackDownloader.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\TrackDownloader\obj\Debug\TrackDownloader.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\TrackDownloader\obj\Debug\TrackDownloader.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\Lists\TrackDownloader\obj\Debug\TrackDownloader.pdb

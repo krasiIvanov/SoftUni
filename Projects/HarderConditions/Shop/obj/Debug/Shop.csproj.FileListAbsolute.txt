@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Shop\bin\Debug\Shop.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Shop\bin\Debug\Shop.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Shop\bin\Debug\Shop.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Shop\obj\Debug\Shop.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\Shop\obj\Debug\Shop.pdb

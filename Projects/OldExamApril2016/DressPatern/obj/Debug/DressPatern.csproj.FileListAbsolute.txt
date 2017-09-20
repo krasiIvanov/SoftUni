@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\DressPatern\bin\Debug\DressPatern.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\DressPatern\bin\Debug\DressPatern.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\DressPatern\bin\Debug\DressPatern.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\DressPatern\obj\Debug\DressPatern.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\DressPatern\obj\Debug\DressPatern.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\DressPatern\obj\Debug\DressPatern.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInRectangle\bin\Debug\PointInRectangle.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInRectangle\bin\Debug\PointInRectangle.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInRectangle\obj\Debug\PointInRectangle.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInRectangle\obj\Debug\PointInRectangle.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\PointInRectangle\obj\Debug\PointInRectangle.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\RemoveNegativeAndReverse\bin\Debug\RemoveNegativeAndReverse.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\RemoveNegativeAndReverse\obj\Debug\RemoveNegativeAndReverse.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\RemoveNegativeAndReverse\bin\Debug\RemoveNegativeAndReverse.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\RemoveNegativeAndReverse\bin\Debug\RemoveNegativeAndReverse.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\RemoveNegativeAndReverse\obj\Debug\RemoveNegativeAndReverse.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\RemoveNegativeAndReverse\obj\Debug\RemoveNegativeAndReverse.pdb

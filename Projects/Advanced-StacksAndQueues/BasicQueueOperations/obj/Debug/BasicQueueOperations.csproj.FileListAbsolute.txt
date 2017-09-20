@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\BasicQueueOperations\bin\Debug\BasicQueueOperations.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\BasicQueueOperations\bin\Debug\BasicQueueOperations.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\BasicQueueOperations\bin\Debug\BasicQueueOperations.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\BasicQueueOperations\obj\Debug\BasicQueueOperations.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\BasicQueueOperations\obj\Debug\BasicQueueOperations.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\BasicQueueOperations\obj\Debug\BasicQueueOperations.pdb

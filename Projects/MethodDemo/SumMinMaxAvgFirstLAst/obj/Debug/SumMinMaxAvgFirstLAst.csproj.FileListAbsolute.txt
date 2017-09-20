@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\SumMinMaxAvgFirstLAst\bin\Debug\SumMinMaxAvgFirstLAst.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\SumMinMaxAvgFirstLAst\bin\Debug\SumMinMaxAvgFirstLAst.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\SumMinMaxAvgFirstLAst\bin\Debug\SumMinMaxAvgFirstLAst.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\SumMinMaxAvgFirstLAst\obj\Debug\SumMinMaxAvgFirstLAst.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\SumMinMaxAvgFirstLAst\obj\Debug\SumMinMaxAvgFirstLAst.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\SumMinMaxAvgFirstLAst\obj\Debug\SumMinMaxAvgFirstLAst.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Altitude\bin\Debug\Altitude.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Altitude\bin\Debug\Altitude.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Altitude\bin\Debug\Altitude.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Altitude\obj\Debug\Altitude.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Altitude\obj\Debug\Altitude.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Altitude\obj\Debug\Altitude.pdb

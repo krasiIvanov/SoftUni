@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\CheckEven\bin\Debug\CheckEven.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\CheckEven\bin\Debug\CheckEven.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\CheckEven\bin\Debug\CheckEven.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\CheckEven\obj\Debug\CheckEven.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\CheckEven\obj\Debug\CheckEven.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\CheckEven\obj\Debug\CheckEven.pdb

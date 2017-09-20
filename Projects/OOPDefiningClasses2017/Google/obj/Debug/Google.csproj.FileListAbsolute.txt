@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\Google\bin\Debug\Google.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\Google\bin\Debug\Google.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\Google\bin\Debug\Google.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\Google\obj\Debug\Google.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\Google\obj\Debug\Google.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\Google\obj\Debug\Google.pdb

@@ -1,0 +1,8 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\OddLines\bin\Debug\OddLines.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\OddLines\bin\Debug\OddLines.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\OddLines\bin\Debug\OddLines.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\OddLines\bin\Debug\BashSoft.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\OddLines\bin\Debug\BashSoft.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\OddLines\obj\Debug\OddLines.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\OddLines\obj\Debug\OddLines.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\OddLines\obj\Debug\OddLines.pdb

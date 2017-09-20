@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\PoolPipes\bin\Debug\PoolPipes.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\PoolPipes\bin\Debug\PoolPipes.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\PoolPipes\bin\Debug\PoolPipes.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\PoolPipes\obj\Debug\PoolPipes.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\PoolPipes\obj\Debug\PoolPipes.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\PoolPipes\obj\Debug\PoolPipes.pdb

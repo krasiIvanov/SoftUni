@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\TrickyStrings\bin\Debug\TrickyStrings.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\TrickyStrings\bin\Debug\TrickyStrings.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\TrickyStrings\bin\Debug\TrickyStrings.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\TrickyStrings\obj\Debug\TrickyStrings.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\TrickyStrings\obj\Debug\TrickyStrings.pdb

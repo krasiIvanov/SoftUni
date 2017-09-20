@@ -1,0 +1,8 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\LineNumbers\bin\Debug\LineNumbers.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\LineNumbers\bin\Debug\LineNumbers.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\LineNumbers\bin\Debug\LineNumbers.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\LineNumbers\bin\Debug\BashSoft.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\LineNumbers\bin\Debug\BashSoft.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\LineNumbers\obj\Debug\LineNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\LineNumbers\obj\Debug\LineNumbers.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\LineNumbers\obj\Debug\LineNumbers.pdb

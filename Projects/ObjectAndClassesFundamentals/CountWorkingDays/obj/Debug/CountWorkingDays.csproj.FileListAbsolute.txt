@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\CountWorkingDays\bin\Debug\CountWorkingDays.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\CountWorkingDays\bin\Debug\CountWorkingDays.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\CountWorkingDays\bin\Debug\CountWorkingDays.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\CountWorkingDays\obj\Debug\CountWorkingDays.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\CountWorkingDays\obj\Debug\CountWorkingDays.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\CountWorkingDays\obj\Debug\CountWorkingDays.pdb

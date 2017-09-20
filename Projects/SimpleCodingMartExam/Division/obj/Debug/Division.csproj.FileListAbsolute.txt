@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Division\bin\Debug\Division.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Division\bin\Debug\Division.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Division\bin\Debug\Division.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Division\obj\Debug\Division.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Division\obj\Debug\Division.pdb

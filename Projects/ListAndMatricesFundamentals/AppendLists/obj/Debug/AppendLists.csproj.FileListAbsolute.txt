@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\AppendLists\bin\Debug\AppendLists.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\AppendLists\bin\Debug\AppendLists.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\AppendLists\bin\Debug\AppendLists.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\AppendLists\obj\Debug\AppendLists.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\AppendLists\obj\Debug\AppendLists.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\AppendLists\obj\Debug\AppendLists.pdb

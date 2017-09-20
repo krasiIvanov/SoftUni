@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\SumSeconds\bin\Debug\SumSeconds.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\SumSeconds\bin\Debug\SumSeconds.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\SumSeconds\bin\Debug\SumSeconds.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\SumSeconds\obj\Debug\SumSeconds.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\SumSeconds\obj\Debug\SumSeconds.pdb

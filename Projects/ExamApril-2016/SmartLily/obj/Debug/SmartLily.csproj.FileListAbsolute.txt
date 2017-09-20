@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SmartLily\bin\Debug\SmartLily.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SmartLily\bin\Debug\SmartLily.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SmartLily\bin\Debug\SmartLily.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SmartLily\obj\Debug\SmartLily.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SmartLily\obj\Debug\SmartLily.pdb

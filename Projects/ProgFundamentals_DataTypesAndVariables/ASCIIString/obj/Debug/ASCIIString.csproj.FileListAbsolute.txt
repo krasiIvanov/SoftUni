@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\ASCIIString\bin\Debug\ASCIIString.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\ASCIIString\bin\Debug\ASCIIString.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\ASCIIString\bin\Debug\ASCIIString.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\ASCIIString\obj\Debug\ASCIIString.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\ASCIIString\obj\Debug\ASCIIString.pdb

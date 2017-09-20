@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\RotateToRight\bin\Debug\RotateToRight.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\RotateToRight\bin\Debug\RotateToRight.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\RotateToRight\bin\Debug\RotateToRight.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\RotateToRight\obj\Debug\RotateToRight.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\RotateToRight\obj\Debug\RotateToRight.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\RotateToRight\obj\Debug\RotateToRight.pdb

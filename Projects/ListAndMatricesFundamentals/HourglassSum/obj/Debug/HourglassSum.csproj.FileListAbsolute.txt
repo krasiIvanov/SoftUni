@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\HourglassSum\bin\Debug\HourglassSum.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\HourglassSum\bin\Debug\HourglassSum.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\HourglassSum\bin\Debug\HourglassSum.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\HourglassSum\obj\Debug\HourglassSum.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\HourglassSum\obj\Debug\HourglassSum.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\HourglassSum\obj\Debug\HourglassSum.pdb

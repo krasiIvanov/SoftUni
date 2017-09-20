@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Fort\bin\Debug\Fort.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Fort\bin\Debug\Fort.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Fort\bin\Debug\Fort.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Fort\obj\Debug\Fort.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Fort\obj\Debug\Fort.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamCoding\Fort\obj\Debug\Fort.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\OddAndEvanPositions\bin\Debug\OddAndEvanPositions.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\OddAndEvanPositions\bin\Debug\OddAndEvanPositions.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\OddAndEvanPositions\bin\Debug\OddAndEvanPositions.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\OddAndEvanPositions\obj\Debug\OddAndEvanPositions.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\OddAndEvanPositions\obj\Debug\OddAndEvanPositions.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\OddAndEvanPositions\obj\Debug\OddAndEvanPositions.pdb

@@ -1,0 +1,5 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Read_from_specified_line\bin\Debug\Read_from_specified_line.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Read_from_specified_line\bin\Debug\Read_from_specified_line.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Read_from_specified_line\bin\Debug\Read_from_specified_line.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Read_from_specified_line\obj\Debug\Read_from_specified_line.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\Read_from_specified_line\obj\Debug\Read_from_specified_line.pdb

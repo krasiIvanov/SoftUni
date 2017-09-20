@@ -1,0 +1,3 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Drawing\bin\Debug\Drawing.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Drawing\obj\Debug\Drawing.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Drawing\obj\Debug\Drawing.pdb

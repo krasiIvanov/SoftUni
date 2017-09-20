@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\AppendList\bin\Debug\AppendList.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\AppendList\bin\Debug\AppendList.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\AppendList\bin\Debug\AppendList.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\AppendList\obj\Debug\AppendList.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\AppendList\obj\Debug\AppendList.pdb

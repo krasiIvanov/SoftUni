@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SumEqualNumbers\bin\Debug\SumEqualNumbers.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SumEqualNumbers\bin\Debug\SumEqualNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SumEqualNumbers\bin\Debug\SumEqualNumbers.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SumEqualNumbers\obj\Debug\SumEqualNumbers.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SumEqualNumbers\obj\Debug\SumEqualNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatrix\SumEqualNumbers\obj\Debug\SumEqualNumbers.pdb

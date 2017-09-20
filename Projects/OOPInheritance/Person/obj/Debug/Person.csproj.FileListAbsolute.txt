@@ -1,0 +1,1 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPInheritance\Person\bin\Debug\Person.exe.config

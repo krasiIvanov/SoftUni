@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInFigure\bin\Debug\PointInFigure.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInFigure\bin\Debug\PointInFigure.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInFigure\bin\Debug\PointInFigure.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInFigure\obj\Debug\PointInFigure.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\PointInFigure\obj\Debug\PointInFigure.pdb

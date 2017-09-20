@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\NumbersТoWords\bin\Debug\NumbersТoWords.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\NumbersТoWords\bin\Debug\NumbersТoWords.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\NumbersТoWords\bin\Debug\NumbersТoWords.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\NumbersТoWords\obj\Debug\NumbersТoWords.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\NumbersТoWords\obj\Debug\NumbersТoWords.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\NumbersТoWords\obj\Debug\NumbersТoWords.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Holiday\bin\Debug\Holiday.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Holiday\bin\Debug\Holiday.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Holiday\bin\Debug\Holiday.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Holiday\obj\Debug\Holiday.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Holiday\obj\Debug\Holiday.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Holiday\obj\Debug\Holiday.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CountRealNumbers\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\StudentGroups\bin\Debug\StudentGroups.exe.config
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\StudentGroups\bin\Debug\StudentGroups.exe
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\StudentGroups\bin\Debug\StudentGroups.pdb
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\StudentGroups\obj\Debug\StudentGroups.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\StudentGroups\obj\Debug\StudentGroups.exe
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\ObjectAndClassesFundamentals\StudentGroups\obj\Debug\StudentGroups.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\BallisticsTraining\bin\Debug\BallisticsTraining.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\BallisticsTraining\bin\Debug\BallisticsTraining.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\BallisticsTraining\bin\Debug\BallisticsTraining.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\BallisticsTraining\obj\Debug\BallisticsTraining.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\BallisticsTraining\obj\Debug\BallisticsTraining.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\BallisticsTraining\obj\Debug\BallisticsTraining.pdb

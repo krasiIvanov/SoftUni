@@ -1,0 +1,5 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\Palindromes\bin\Debug\Palindromes.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\Palindromes\obj\Debug\Palindromes.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedManualStringProcessing\Palindromes\obj\Debug\Palindromes.pdb

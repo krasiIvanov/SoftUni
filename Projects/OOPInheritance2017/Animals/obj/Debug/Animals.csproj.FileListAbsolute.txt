@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Animals\bin\Debug\Animals.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Animals\bin\Debug\Animals.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Animals\bin\Debug\Animals.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Animals\obj\Debug\Animals.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\Animals\obj\Debug\Animals.pdb

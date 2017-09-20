@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

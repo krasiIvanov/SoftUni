@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\SunGlasses\bin\Debug\SunGlasses.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\SunGlasses\bin\Debug\SunGlasses.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\SunGlasses\bin\Debug\SunGlasses.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\SunGlasses\obj\Debug\SunGlasses.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\SunGlasses\obj\Debug\SunGlasses.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\SunGlasses\obj\Debug\SunGlasses.pdb

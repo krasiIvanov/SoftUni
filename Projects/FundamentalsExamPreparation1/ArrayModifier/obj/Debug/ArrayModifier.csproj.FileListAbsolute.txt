@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\FundamentalsExamPreparation1\ArrayModifier\bin\Debug\ArrayModifier.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\FundamentalsExamPreparation1\ArrayModifier\bin\Debug\ArrayModifier.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\FundamentalsExamPreparation1\ArrayModifier\bin\Debug\ArrayModifier.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\FundamentalsExamPreparation1\ArrayModifier\obj\Debug\ArrayModifier.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\FundamentalsExamPreparation1\ArrayModifier\obj\Debug\ArrayModifier.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\FundamentalsExamPreparation1\ArrayModifier\obj\Debug\ArrayModifier.pdb

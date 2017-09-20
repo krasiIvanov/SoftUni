@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\AdvertisementMessage\bin\Debug\AdvertisementMessage.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\AdvertisementMessage\obj\Debug\AdvertisementMessage.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\AdvertisementMessage\obj\Debug\AdvertisementMessage.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\AdvertisementMessage\obj\Debug\AdvertisementMessage.pdb

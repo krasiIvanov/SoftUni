@@ -1,0 +1,8 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\WordCount\bin\Debug\WordCount.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\WordCount\bin\Debug\WordCount.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\WordCount\obj\Debug\WordCount.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\WordCount\obj\Debug\WordCount.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\WordCount\bin\Debug\BashSoft.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedFilesAndDirectories\WordCount\bin\Debug\BashSoft.pdb

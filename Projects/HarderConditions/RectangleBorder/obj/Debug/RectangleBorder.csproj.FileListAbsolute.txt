@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\RectangleBorder\bin\Debug\RectangleBorder.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\RectangleBorder\bin\Debug\RectangleBorder.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\RectangleBorder\bin\Debug\RectangleBorder.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\RectangleBorder\obj\Debug\RectangleBorder.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\HarderConditions\RectangleBorder\obj\Debug\RectangleBorder.pdb

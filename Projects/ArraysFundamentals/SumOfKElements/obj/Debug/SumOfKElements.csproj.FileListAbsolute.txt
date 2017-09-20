@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SumOfKElements\bin\Debug\SumOfKElements.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SumOfKElements\bin\Debug\SumOfKElements.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SumOfKElements\bin\Debug\SumOfKElements.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SumOfKElements\obj\Debug\SumOfKElements.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SumOfKElements\obj\Debug\SumOfKElements.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ArraysFundamentals\SumOfKElements\obj\Debug\SumOfKElements.pdb

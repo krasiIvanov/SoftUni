@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\FallenInlove\bin\Debug\FallenInlove.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\FallenInlove\bin\Debug\FallenInlove.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\FallenInlove\bin\Debug\FallenInlove.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\FallenInlove\obj\Debug\FallenInlove.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\FallenInlove\obj\Debug\FallenInlove.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamFeb2016\FallenInlove\obj\Debug\FallenInlove.pdb

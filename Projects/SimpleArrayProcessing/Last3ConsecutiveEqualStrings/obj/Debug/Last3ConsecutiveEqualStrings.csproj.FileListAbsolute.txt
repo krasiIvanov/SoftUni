@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.pdb

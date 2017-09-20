@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Squere\bin\Debug\Squere.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Squere\bin\Debug\Squere.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Squere\bin\Debug\Squere.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Squere\obj\Debug\Squere.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Squere\obj\Debug\Squere.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Squere\obj\Debug\Squere.pdb

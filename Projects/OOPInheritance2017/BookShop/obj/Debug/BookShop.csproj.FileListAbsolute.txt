@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\BookShop\bin\Debug\BookShop.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\BookShop\bin\Debug\BookShop.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\BookShop\obj\Debug\BookShop.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPInheritance2017\BookShop\obj\Debug\BookShop.pdb

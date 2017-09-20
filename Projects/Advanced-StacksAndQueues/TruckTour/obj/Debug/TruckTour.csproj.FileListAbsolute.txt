@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\Advanced-StacksAndQueues\TruckTour\bin\Debug\TruckTour.exe.config
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\Advanced-StacksAndQueues\TruckTour\bin\Debug\TruckTour.exe
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\Advanced-StacksAndQueues\TruckTour\bin\Debug\TruckTour.pdb
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\Advanced-StacksAndQueues\TruckTour\obj\Debug\TruckTour.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\Advanced-StacksAndQueues\TruckTour\obj\Debug\TruckTour.exe
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\Advanced-StacksAndQueues\TruckTour\obj\Debug\TruckTour.pdb

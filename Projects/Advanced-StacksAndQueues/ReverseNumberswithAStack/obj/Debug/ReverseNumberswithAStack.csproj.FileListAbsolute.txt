@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\ReverseNumberswithAStack\bin\Debug\ReverseNumberswithAStack.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\ReverseNumberswithAStack\bin\Debug\ReverseNumberswithAStack.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\ReverseNumberswithAStack\bin\Debug\ReverseNumberswithAStack.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\ReverseNumberswithAStack\obj\Debug\ReverseNumberswithAStack.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\ReverseNumberswithAStack\obj\Debug\ReverseNumberswithAStack.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\Advanced-StacksAndQueues\ReverseNumberswithAStack\obj\Debug\ReverseNumberswithAStack.pdb

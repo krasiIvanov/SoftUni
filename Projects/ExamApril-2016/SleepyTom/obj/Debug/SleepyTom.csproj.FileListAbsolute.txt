@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SleepyTom\bin\Debug\SleepyTom.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SleepyTom\bin\Debug\SleepyTom.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SleepyTom\bin\Debug\SleepyTom.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SleepyTom\obj\Debug\SleepyTom.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SleepyTom\obj\Debug\SleepyTom.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ExamApril-2016\SleepyTom\obj\Debug\SleepyTom.pdb

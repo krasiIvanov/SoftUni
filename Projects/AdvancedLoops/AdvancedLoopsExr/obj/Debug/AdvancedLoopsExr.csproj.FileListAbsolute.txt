@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\AdvancedLoopsExr\bin\Debug\AdvancedLoopsExr.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\AdvancedLoopsExr\bin\Debug\AdvancedLoopsExr.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\AdvancedLoopsExr\bin\Debug\AdvancedLoopsExr.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\AdvancedLoopsExr\obj\Debug\AdvancedLoopsExr.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\AdvancedLoopsExr\obj\Debug\AdvancedLoopsExr.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\AdvancedLoops\AdvancedLoopsExr\obj\Debug\AdvancedLoopsExr.pdb

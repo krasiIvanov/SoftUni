@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\PrintNumber0-100\bin\Debug\PrintNumber0-100.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\PrintNumber0-100\bin\Debug\PrintNumber0-100.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\PrintNumber0-100\bin\Debug\PrintNumber0-100.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\PrintNumber0-100\obj\Debug\PrintNumber0-100.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\PrintNumber0-100\obj\Debug\PrintNumber0-100.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCheks\PrintNumber0-100\obj\Debug\PrintNumber0-100.pdb

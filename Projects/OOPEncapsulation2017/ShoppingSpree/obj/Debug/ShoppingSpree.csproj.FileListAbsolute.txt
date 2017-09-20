@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ShoppingSpree\obj\Debug\ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\OOPEncapsulation2017\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

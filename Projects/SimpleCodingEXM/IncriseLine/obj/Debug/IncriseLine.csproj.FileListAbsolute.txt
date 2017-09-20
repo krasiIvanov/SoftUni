@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\IncriseLine\bin\Debug\IncriseLine.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\IncriseLine\bin\Debug\IncriseLine.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\IncriseLine\bin\Debug\IncriseLine.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\IncriseLine\obj\Debug\IncriseLine.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\IncriseLine\obj\Debug\IncriseLine.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\IncriseLine\obj\Debug\IncriseLine.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MethodDemo\bin\Debug\MethodDemo.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MethodDemo\bin\Debug\MethodDemo.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MethodDemo\bin\Debug\MethodDemo.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MethodDemo\obj\Debug\MethodDemo.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MethodDemo\obj\Debug\MethodDemo.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MethodDemo\obj\Debug\MethodDemo.pdb

@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Romb\bin\Debug\Romb.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Romb\obj\Debug\Romb.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Romb\obj\Debug\Romb.pdb
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\DrawingWithLoops\Romb\bin\Debug\Romb.exe
+C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\DrawingWithLoops\Romb\bin\Debug\Romb.pdb

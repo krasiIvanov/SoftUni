@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\BookLibrary\obj\Debug\BookLibrary.pdb

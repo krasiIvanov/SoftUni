@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\ArraySymmetry\bin\Debug\ArraySymmetry.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\ArraySymmetry\bin\Debug\ArraySymmetry.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\ArraySymmetry\bin\Debug\ArraySymmetry.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\ArraySymmetry\obj\Debug\ArraySymmetry.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\ArraySymmetry\obj\Debug\ArraySymmetry.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\ArraySymmetry\obj\Debug\ArraySymmetry.csprojResolveAssemblyReference.cache

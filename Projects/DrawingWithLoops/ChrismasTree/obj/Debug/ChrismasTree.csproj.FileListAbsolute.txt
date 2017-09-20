@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\ChrismasTree\bin\Debug\ChrismasTree.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\ChrismasTree\bin\Debug\ChrismasTree.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\ChrismasTree\bin\Debug\ChrismasTree.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\ChrismasTree\obj\Debug\ChrismasTree.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\ChrismasTree\obj\Debug\ChrismasTree.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\ChrismasTree\obj\Debug\ChrismasTree.pdb

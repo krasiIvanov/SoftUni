@@ -1,0 +1,5 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\SumAnyDigit\bin\Debug\SumAnyDigit.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\SumAnyDigit\bin\Debug\SumAnyDigit.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\SumAnyDigit\bin\Debug\SumAnyDigit.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\SumAnyDigit\obj\Debug\SumAnyDigit.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\SumAnyDigit\obj\Debug\SumAnyDigit.pdb

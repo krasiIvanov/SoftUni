@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NumberPiramid\bin\Debug\NumberPiramid.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NumberPiramid\bin\Debug\NumberPiramid.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NumberPiramid\bin\Debug\NumberPiramid.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NumberPiramid\obj\Debug\NumberPiramid.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NumberPiramid\obj\Debug\NumberPiramid.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\AdvancedLoops\NumberPiramid\obj\Debug\NumberPiramid.pdb

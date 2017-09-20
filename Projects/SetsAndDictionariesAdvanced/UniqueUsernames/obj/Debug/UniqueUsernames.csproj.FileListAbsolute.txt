@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UniqueUsernames\bin\Debug\UniqueUsernames.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UniqueUsernames\bin\Debug\UniqueUsernames.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UniqueUsernames\bin\Debug\UniqueUsernames.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\UniqueUsernames.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\UniqueUsernames.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\UniqueUsernames.pdb

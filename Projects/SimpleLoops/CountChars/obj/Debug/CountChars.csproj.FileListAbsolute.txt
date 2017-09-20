@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\CountChars\bin\Debug\CountChars.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\CountChars\bin\Debug\CountChars.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\CountChars\bin\Debug\CountChars.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\CountChars\obj\Debug\CountChars.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\CountChars\obj\Debug\CountChars.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\CountChars\obj\Debug\CountChars.pdb

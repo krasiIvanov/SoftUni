@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

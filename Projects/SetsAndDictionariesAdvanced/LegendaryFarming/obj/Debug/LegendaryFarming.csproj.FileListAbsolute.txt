@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\LegendaryFarming\bin\Debug\LegendaryFarming.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\LegendaryFarming\bin\Debug\LegendaryFarming.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\LegendaryFarming\bin\Debug\LegendaryFarming.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\LegendaryFarming\obj\Debug\LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\LegendaryFarming\obj\Debug\LegendaryFarming.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\LegendaryFarming\obj\Debug\LegendaryFarming.pdb

@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\ListAndMatricesFundamentals\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb

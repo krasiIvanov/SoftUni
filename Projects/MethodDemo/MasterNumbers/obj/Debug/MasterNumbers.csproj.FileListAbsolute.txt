@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MasterNumbers\bin\Debug\MasterNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MasterNumbers\bin\Debug\MasterNumbers.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MasterNumbers\obj\Debug\MasterNumbers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\MethodDemo\MasterNumbers\obj\Debug\MasterNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\BlurFilter\bin\Debug\BlurFilter.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\BlurFilter\bin\Debug\BlurFilter.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\BlurFilter\bin\Debug\BlurFilter.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\BlurFilter\obj\Debug\BlurFilter.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\BlurFilter\obj\Debug\BlurFilter.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\BlurFilter\obj\Debug\BlurFilter.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPPolymorphism\Problem1Vehicles\bin\Debug\Problem1Vehicles.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPPolymorphism\Problem1Vehicles\bin\Debug\Problem1Vehicles.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPPolymorphism\Problem1Vehicles\bin\Debug\Problem1Vehicles.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPPolymorphism\Problem1Vehicles\obj\Debug\Problem1Vehicles.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPPolymorphism\Problem1Vehicles\obj\Debug\Problem1Vehicles.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPPolymorphism\Problem1Vehicles\obj\Debug\Problem1Vehicles.pdb

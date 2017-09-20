@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\FromInchToCm\bin\Debug\FromInchToCm.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\FromInchToCm\bin\Debug\FromInchToCm.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\FromInchToCm\bin\Debug\FromInchToCm.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\FromInchToCm\obj\Debug\FromInchToCm.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\FromInchToCm\obj\Debug\FromInchToCm.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\FromInchToCm\obj\Debug\FromInchToCm.csprojResolveAssemblyReference.cache

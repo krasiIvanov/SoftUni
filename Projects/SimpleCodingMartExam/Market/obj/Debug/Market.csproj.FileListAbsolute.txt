@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Market\bin\Debug\Market.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Market\bin\Debug\Market.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Market\bin\Debug\Market.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Market\obj\Debug\Market.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Market\obj\Debug\Market.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingMartExam\Market\obj\Debug\Market.pdb

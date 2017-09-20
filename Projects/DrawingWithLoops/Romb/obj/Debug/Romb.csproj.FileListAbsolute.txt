@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Romb\bin\Debug\Romb.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Romb\bin\Debug\Romb.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Romb\bin\Debug\Romb.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Romb\obj\Debug\Romb.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Romb\obj\Debug\Romb.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\DrawingWithLoops\Romb\obj\Debug\Romb.pdb

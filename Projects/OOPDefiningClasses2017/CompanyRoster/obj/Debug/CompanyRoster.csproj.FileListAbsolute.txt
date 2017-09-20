@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CompanyRoster\obj\Debug\CompanyRoster.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CompanyRoster\bin\Debug\CompanyRoster.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CompanyRoster\bin\Debug\CompanyRoster.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CompanyRoster\bin\Debug\CompanyRoster.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CompanyRoster\obj\Debug\CompanyRoster.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPDefiningClasses2017\CompanyRoster\obj\Debug\CompanyRoster.pdb

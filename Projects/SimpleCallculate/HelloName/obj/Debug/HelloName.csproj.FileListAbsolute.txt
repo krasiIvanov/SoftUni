@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\HelloName\bin\Debug\HelloName.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\HelloName\bin\Debug\HelloName.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\HelloName\bin\Debug\HelloName.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\HelloName\obj\Debug\HelloName.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCallculate\HelloName\obj\Debug\HelloName.pdb

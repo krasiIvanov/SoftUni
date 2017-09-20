@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\SpeedRacing\bin\Debug\SpeedRacing.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\SpeedRacing\bin\Debug\SpeedRacing.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\SpeedRacing\bin\Debug\SpeedRacing.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\SpeedRacing\obj\Debug\SpeedRacing.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\SpeedRacing\obj\Debug\SpeedRacing.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\OOPDefiningClasses\SpeedRacing\obj\Debug\SpeedRacing.pdb

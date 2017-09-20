@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\SimpleArrayProcessing\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache

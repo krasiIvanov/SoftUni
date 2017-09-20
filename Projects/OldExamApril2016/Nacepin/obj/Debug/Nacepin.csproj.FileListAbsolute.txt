@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Nacepin\bin\Debug\Nacepin.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Nacepin\bin\Debug\Nacepin.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Nacepin\bin\Debug\Nacepin.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Nacepin\obj\Debug\Nacepin.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Nacepin\obj\Debug\Nacepin.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Nacepin\obj\Debug\Nacepin.pdb

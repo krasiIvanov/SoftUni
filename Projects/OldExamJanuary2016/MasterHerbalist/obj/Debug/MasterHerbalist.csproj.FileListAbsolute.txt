@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\MasterHerbalist\bin\Debug\MasterHerbalist.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\MasterHerbalist\bin\Debug\MasterHerbalist.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\MasterHerbalist\bin\Debug\MasterHerbalist.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\MasterHerbalist\obj\Debug\MasterHerbalist.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\MasterHerbalist\obj\Debug\MasterHerbalist.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\MasterHerbalist\obj\Debug\MasterHerbalist.pdb

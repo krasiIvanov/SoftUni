@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\StringEncryption\bin\Debug\StringEncryption.exe.config
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\StringEncryption\bin\Debug\StringEncryption.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\StringEncryption\bin\Debug\StringEncryption.pdb
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\StringEncryption\obj\Debug\StringEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\StringEncryption\obj\Debug\StringEncryption.exe
+C:\Users\Krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\StringEncryption\obj\Debug\StringEncryption.pdb

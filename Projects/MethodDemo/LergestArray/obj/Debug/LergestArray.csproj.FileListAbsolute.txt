@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\LergestArray\bin\Debug\LergestArray.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\LergestArray\bin\Debug\LergestArray.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\LergestArray\bin\Debug\LergestArray.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\LergestArray\obj\Debug\LergestArray.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\LergestArray\obj\Debug\LergestArray.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\MethodDemo\LergestArray\obj\Debug\LergestArray.csprojResolveAssemblyReference.cache

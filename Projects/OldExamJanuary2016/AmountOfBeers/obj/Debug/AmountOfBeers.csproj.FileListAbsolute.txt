@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\AmountOfBeers\bin\Debug\AmountOfBeers.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\AmountOfBeers\bin\Debug\AmountOfBeers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\AmountOfBeers\bin\Debug\AmountOfBeers.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\AmountOfBeers\obj\Debug\AmountOfBeers.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamJanuary2016\AmountOfBeers\obj\Debug\AmountOfBeers.pdb

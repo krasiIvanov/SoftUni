@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Bricks\bin\Debug\Bricks.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Bricks\bin\Debug\Bricks.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Bricks\bin\Debug\Bricks.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Bricks\obj\Debug\Bricks.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleCodingEXM\Bricks\obj\Debug\Bricks.pdb

@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Hogwarts\bin\Debug\Hogwarts.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Hogwarts\bin\Debug\Hogwarts.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Hogwarts\bin\Debug\Hogwarts.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Hogwarts\obj\Debug\Hogwarts.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Hogwarts\obj\Debug\Hogwarts.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OldExamApril2016\Hogwarts\obj\Debug\Hogwarts.pdb

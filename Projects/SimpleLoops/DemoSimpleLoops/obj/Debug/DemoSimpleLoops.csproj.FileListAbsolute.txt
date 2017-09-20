@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\DemoSimpleLoops\bin\Debug\DemoSimpleLoops.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\DemoSimpleLoops\bin\Debug\DemoSimpleLoops.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\DemoSimpleLoops\bin\Debug\DemoSimpleLoops.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\DemoSimpleLoops\obj\Debug\DemoSimpleLoops.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\DemoSimpleLoops\obj\Debug\DemoSimpleLoops.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SimpleLoops\DemoSimpleLoops\obj\Debug\DemoSimpleLoops.pdb

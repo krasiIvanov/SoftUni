@@ -1,0 +1,5 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\FitStringIn20Chars\obj\Debug\FitStringIn20Chars.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\FitStringIn20Chars\obj\Debug\FitStringIn20Chars.pdb

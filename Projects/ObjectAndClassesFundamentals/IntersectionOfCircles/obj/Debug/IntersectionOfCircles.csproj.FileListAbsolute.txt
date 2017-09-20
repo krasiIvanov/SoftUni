@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\ObjectAndClassesFundamentals\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.pdb

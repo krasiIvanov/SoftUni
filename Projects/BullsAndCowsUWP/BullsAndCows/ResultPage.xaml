@@ -1,0 +1,61 @@
+﻿<Page
+    x:Class="BullsAndCows.ResultPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BullsAndCows"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Background="#37384d">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            
+            <Grid Grid.Row="0" Grid.Column="1" Margin="8 4 8 4" >
+                <TextBlock x:Name="lebel" Text="RESULTS" FontSize="24" Foreground="White" FontWeight="ExtraBold" HorizontalAlignment="Center"/>
+                
+
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="0" Margin="8 4 8 4" >
+                <TextBlock Text="NAME" FontSize="25" Foreground="#ee474f" FontWeight="ExtraBold" HorizontalAlignment="Left"/>
+                <TextBlock Text="MOVES" FontSize="25" Foreground="#ee474f" FontWeight="ExtraBold"  HorizontalAlignment="Center"/>
+                <TextBlock Text="RESULT" FontSize="25" Foreground="#ee474f" FontWeight="ExtraBold" HorizontalAlignment="Right"/>
+            </Grid>
+            
+            
+            <Grid Grid.Row="2"  Margin="8 4 8 4">
+                
+                <ScrollViewer>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Row="2"   Orientation="Vertical" HorizontalAlignment="Left" x:Name="listWithNames" >
+
+                        </StackPanel>
+                        <StackPanel Grid.Row="2" Grid.Column="1"   Orientation="Vertical" HorizontalAlignment="Center" x:Name="listWithMoves" >
+
+                        </StackPanel>
+                        <StackPanel Grid.Row="2" Grid.Column="2"  Orientation="Vertical" HorizontalAlignment="Right" x:Name="listWithResult" >
+
+                        </StackPanel>
+                    </Grid>
+                    
+                </ScrollViewer>
+                
+            </Grid>
+            <Grid Grid.Row="3"  Margin="8,4,8,4">
+                <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button x:Name="btnBack"  BorderBrush="#a4404e" BorderThickness="4" Background="#ee474f" Content="Back" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="55 10 55 10" Foreground="White" FontWeight="ExtraBold" FontSize="30" Click="btnBack_Click" />
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

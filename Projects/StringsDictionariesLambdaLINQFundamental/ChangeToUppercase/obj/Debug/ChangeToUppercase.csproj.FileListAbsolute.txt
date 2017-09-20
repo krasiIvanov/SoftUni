@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ChangeToUppercase\bin\Debug\ChangeToUppercase.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ChangeToUppercase\bin\Debug\ChangeToUppercase.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ChangeToUppercase\bin\Debug\ChangeToUppercase.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ChangeToUppercase\obj\Debug\ChangeToUppercase.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ChangeToUppercase\obj\Debug\ChangeToUppercase.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ChangeToUppercase\obj\Debug\ChangeToUppercase.pdb

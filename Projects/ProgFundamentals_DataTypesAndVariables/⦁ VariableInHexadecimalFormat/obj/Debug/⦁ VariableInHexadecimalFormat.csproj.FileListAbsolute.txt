@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\⦁ VariableInHexadecimalFormat\bin\Debug\⦁ VariableInHexadecimalFormat.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\⦁ VariableInHexadecimalFormat\bin\Debug\⦁ VariableInHexadecimalFormat.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\⦁ VariableInHexadecimalFormat\bin\Debug\⦁ VariableInHexadecimalFormat.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\⦁ VariableInHexadecimalFormat\obj\Debug\⦁ VariableInHexadecimalFormat.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\ProgFundamentals_DataTypesAndVariables\⦁ VariableInHexadecimalFormat\obj\Debug\⦁ VariableInHexadecimalFormat.pdb

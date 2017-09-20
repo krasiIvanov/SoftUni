@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\PeriodicTable.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\PeriodicTable.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\PeriodicTable.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\PeriodicTable.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\PeriodicTable.pdb

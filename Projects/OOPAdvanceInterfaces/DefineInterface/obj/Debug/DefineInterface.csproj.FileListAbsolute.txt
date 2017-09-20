@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPAdvanceInterfaces\DefineInterface\bin\Debug\DefineInterface.exe.config
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPAdvanceInterfaces\DefineInterface\bin\Debug\DefineInterface.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPAdvanceInterfaces\DefineInterface\bin\Debug\DefineInterface.pdb
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPAdvanceInterfaces\DefineInterface\obj\Debug\DefineInterface.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPAdvanceInterfaces\DefineInterface\obj\Debug\DefineInterface.exe
+c:\users\krasimir\documents\visual studio 2017\Projects\OOPAdvanceInterfaces\DefineInterface\obj\Debug\DefineInterface.pdb

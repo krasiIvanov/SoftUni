@@ -1,0 +1,6 @@
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ReverseTheWordsInASentence\bin\Debug\ReverseTheWordsInASentence.exe.config
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ReverseTheWordsInASentence\bin\Debug\ReverseTheWordsInASentence.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ReverseTheWordsInASentence\bin\Debug\ReverseTheWordsInASentence.pdb
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ReverseTheWordsInASentence\obj\Debug\ReverseTheWordsInASentence.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ReverseTheWordsInASentence\obj\Debug\ReverseTheWordsInASentence.exe
+C:\Users\Krasimir\documents\visual studio 2015\Projects\StringsDictionariesLambdaLINQFundamental\ReverseTheWordsInASentence\obj\Debug\ReverseTheWordsInASentence.pdb

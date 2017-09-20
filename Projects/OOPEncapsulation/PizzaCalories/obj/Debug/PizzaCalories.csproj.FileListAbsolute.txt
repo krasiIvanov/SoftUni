@@ -1,0 +1,6 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPEncapsulation\PizzaCalories\bin\Debug\PizzaCalories.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPEncapsulation\PizzaCalories\bin\Debug\PizzaCalories.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPEncapsulation\PizzaCalories\bin\Debug\PizzaCalories.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPEncapsulation\PizzaCalories\obj\Debug\PizzaCalories.csprojResolveAssemblyReference.cache
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPEncapsulation\PizzaCalories\obj\Debug\PizzaCalories.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\OOPEncapsulation\PizzaCalories\obj\Debug\PizzaCalories.pdb

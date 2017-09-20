@@ -1,0 +1,5 @@
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\CountSymbols.exe.config
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\CountSymbols.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\CountSymbols.pdb
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\CountSymbols.exe
+c:\users\krasimir\documents\visual studio 2015\Projects\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\CountSymbols.pdb
